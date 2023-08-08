@@ -1,0 +1,20 @@
+C:\Users\ismae\Documents\Practicas de Visual\Calculadora geometrica\obj\Debug\net5.0-windows\Calculadora geometrica.vbproj.AssemblyReference.cache
+C:\Users\ismae\Documents\Practicas de Visual\Calculadora geometrica\obj\Debug\net5.0-windows\Calculadora_geometrica.Form1.resources
+C:\Users\ismae\Documents\Practicas de Visual\Calculadora geometrica\obj\Debug\net5.0-windows\Calculadora_geometrica.Resources.resources
+C:\Users\ismae\Documents\Practicas de Visual\Calculadora geometrica\obj\Debug\net5.0-windows\Calculadora geometrica.vbproj.GenerateResource.cache
+C:\Users\ismae\Documents\Practicas de Visual\Calculadora geometrica\obj\Debug\net5.0-windows\Calculadora geometrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismae\Documents\Practicas de Visual\Calculadora geometrica\obj\Debug\net5.0-windows\Calculadora geometrica.AssemblyInfoInputs.cache
+C:\Users\ismae\Documents\Practicas de Visual\Calculadora geometrica\obj\Debug\net5.0-windows\Calculadora geometrica.AssemblyInfo.vb
+C:\Users\ismae\Documents\Practicas de Visual\Calculadora geometrica\obj\Debug\net5.0-windows\Calculadora geometrica.vbproj.CoreCompileInputs.cache
+C:\Users\ismae\Documents\Practicas de Visual\Calculadora geometrica\bin\Debug\net5.0-windows\Calculadora geometrica.exe
+C:\Users\ismae\Documents\Practicas de Visual\Calculadora geometrica\bin\Debug\net5.0-windows\Calculadora geometrica.deps.json
+C:\Users\ismae\Documents\Practicas de Visual\Calculadora geometrica\bin\Debug\net5.0-windows\Calculadora geometrica.runtimeconfig.json
+C:\Users\ismae\Documents\Practicas de Visual\Calculadora geometrica\bin\Debug\net5.0-windows\Calculadora geometrica.runtimeconfig.dev.json
+C:\Users\ismae\Documents\Practicas de Visual\Calculadora geometrica\bin\Debug\net5.0-windows\Calculadora geometrica.dll
+C:\Users\ismae\Documents\Practicas de Visual\Calculadora geometrica\bin\Debug\net5.0-windows\ref\Calculadora geometrica.dll
+C:\Users\ismae\Documents\Practicas de Visual\Calculadora geometrica\bin\Debug\net5.0-windows\Calculadora geometrica.pdb
+C:\Users\ismae\Documents\Practicas de Visual\Calculadora geometrica\obj\Debug\net5.0-windows\Calculadora geometrica.dll
+C:\Users\ismae\Documents\Practicas de Visual\Calculadora geometrica\obj\Debug\net5.0-windows\ref\Calculadora geometrica.dll
+C:\Users\ismae\Documents\Practicas de Visual\Calculadora geometrica\obj\Debug\net5.0-windows\Calculadora geometrica.pdb
+C:\Users\ismae\Documents\Practicas de Visual\Calculadora geometrica\obj\Debug\net5.0-windows\Calculadora geometrica.genruntimeconfig.cache
+C:\Users\ismae\Documents\Practicas de Visual\Calculadora geometrica\obj\Debug\net5.0-windows\Calculadora_geometrica.Acercade.resources
